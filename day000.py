@@ -26,4 +26,4 @@ class Solution(object):
 
 
 if __name__ == '__main__':
-    print(Solution().twoSum(nums=[2, 7, 11, 15], target=9))
+    print(Solution().twoSum(nums=[2, 7, 11, 15], target=13))
